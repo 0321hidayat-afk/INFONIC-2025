@@ -1,0 +1,6 @@
+Nama: M. Nur Hidayat
+NIM: 25106050044
+
+Figma adalah apk design ui/ux berbasis vektor,
+berbasis cloud auto save, realtime collaboration, 
+fitur prototyping serta salah satu tools populer di perusahan.
